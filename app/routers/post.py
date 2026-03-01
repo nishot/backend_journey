@@ -12,10 +12,8 @@ router=APIRouter(
 # while True:
 #     try:
 #         conn=cnx = mysql.connector.connect(
-#         host="127.0.0.1",
 #         port=3306,
 #         user="root",
-#         password="nishot#11",
 #         database="product")
         
 #         cur = cnx.cursor()
